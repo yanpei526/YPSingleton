@@ -1,4 +1,4 @@
-/* Synthesize Singleton For Class [v1.0.3]
+/* Synthesize Singleton For Class [v1.1.0]
  *
  * Creates a singleton interface for the specified class with the following methods:
  *
